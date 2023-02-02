@@ -1,4 +1,4 @@
-# All course files for the How To Consume An API tutorial on Passioncorners YouTube channel.
+# Vue.js 3 - crypto currency app
 
 ## Project setup
 
