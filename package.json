@@ -23,5 +23,8 @@
     "@vue/cli-service": "~4.5.0",
     "@vue/compiler-sfc": "^3.0.0",
     "vue-cli-plugin-tailwind": "~2.0.6"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
